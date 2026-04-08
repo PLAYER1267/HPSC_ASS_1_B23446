@@ -1,0 +1,3 @@
+mode=bounce
+dt=5e-05
+gamma_n=5

@@ -1,0 +1,11 @@
+label                         : free_fall
+wall_seconds                  : 0.0932495
+simulated_seconds             : 0.6
+final_KE                      : 4.897820921276743
+final_PE                      : 3.42249923680036
+final_E_total                 : 8.320320158077102
+max_speed                     : 5.886000000000357
+active_contacts               : 0
+contact_frac_%                : 0.7808734073430258
+z_exact_at_T                  : 1.2342
+vz_exact_at_T                 : -5.886

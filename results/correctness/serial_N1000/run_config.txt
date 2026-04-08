@@ -1,0 +1,2 @@
+mode=correctness_serial
+N=1000

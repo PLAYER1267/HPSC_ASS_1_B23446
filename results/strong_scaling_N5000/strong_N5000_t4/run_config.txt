@@ -1,0 +1,3 @@
+mode=strong_scaling
+N=5000
+threads=4

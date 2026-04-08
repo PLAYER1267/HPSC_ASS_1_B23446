@@ -1,0 +1,3 @@
+mode=correctness_omp
+N=5000
+threads=4

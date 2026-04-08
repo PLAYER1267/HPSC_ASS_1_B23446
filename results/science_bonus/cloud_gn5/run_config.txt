@@ -1,0 +1,2 @@
+mode=cloud_settling_damping
+gamma_n=5

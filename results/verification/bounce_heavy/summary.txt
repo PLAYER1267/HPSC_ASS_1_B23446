@@ -1,0 +1,11 @@
+label                         : bounce_heavy
+wall_seconds                  : 0.6479249
+simulated_seconds             : 2.5
+final_KE                      : 1.080688726402601
+final_PE                      : 0.2843440076532022
+final_E_total                 : 1.365032734055804
+max_speed                     : 1.795812591579326
+active_contacts               : 0
+contact_frac_%                : 0.7399551548367702
+gamma_n                       : 70
+final_KE                      : 1.080688726402601

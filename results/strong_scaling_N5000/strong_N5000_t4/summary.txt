@@ -1,0 +1,11 @@
+label                         : strong_N5000_t4
+wall_seconds                  : 0.8691909000000001
+simulated_seconds             : 0.02
+final_KE                      : 238.4557397671174
+final_PE                      : 1194.728708947143
+final_E_total                 : 1433.184448714261
+max_speed                     : 7.477423436532317
+active_contacts               : 349
+contact_frac_%                : 98.31358421822351
+speedup                       : 3.246768920383313
+efficiency                    : 0.8116922300958281

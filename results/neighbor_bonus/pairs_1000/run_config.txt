@@ -1,0 +1,2 @@
+mode=all_pairs
+N=1000

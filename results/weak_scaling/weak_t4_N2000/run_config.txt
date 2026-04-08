@@ -1,0 +1,4 @@
+mode=weak_scaling
+N=2000
+side=1.587401051968199
+threads=4

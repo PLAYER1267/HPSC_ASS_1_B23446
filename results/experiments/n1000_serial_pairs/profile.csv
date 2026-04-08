@@ -1,0 +1,7 @@
+function,time_s,percent
+zero_force,0.000432,0.145508
+gravity,0.000604,0.203584
+particle_contacts,0.283299,95.488464
+wall_contacts,0.001193,0.402179
+integration,0.001299,0.437705
+diagnostics,0.009857,3.322560

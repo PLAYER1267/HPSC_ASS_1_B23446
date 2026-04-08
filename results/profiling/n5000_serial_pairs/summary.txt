@@ -1,0 +1,12 @@
+label                         : n5000_serial_pairs
+wall_seconds                  : 4.4064131
+simulated_seconds             : 0.03
+final_KE                      : 208.8868410963966
+final_PE                      : 1183.480213077392
+final_E_total                 : 1392.367054173788
+max_speed                     : 7.126480216753214
+active_contacts               : 322
+contact_frac_%                : 98.29175067771678
+N                             : 5000
+threads                       : 1
+contact_%                     : 98.29175067771678

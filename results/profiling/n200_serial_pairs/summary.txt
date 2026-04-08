@@ -1,0 +1,12 @@
+label                         : n200_serial_pairs
+wall_seconds                  : 0.019123
+simulated_seconds             : 0.03
+final_KE                      : 1.725036300045838
+final_PE                      : 46.93165078706148
+final_E_total                 : 48.65668708710731
+max_speed                     : 4.406425225397816
+active_contacts               : 0
+contact_frac_%                : 55.22263368865824
+N                             : 200
+threads                       : 1
+contact_%                     : 55.22263368865824

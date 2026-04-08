@@ -1,0 +1,9 @@
+label                         : cloud_settling
+wall_seconds                  : 0.3024541
+simulated_seconds             : 0.1
+final_KE                      : 11.06348364961579
+final_PE                      : 115.148602522495
+final_E_total                 : 126.2120861721107
+max_speed                     : 4.505099263992747
+active_contacts               : 1
+contact_frac_%                : 89.82588624985388

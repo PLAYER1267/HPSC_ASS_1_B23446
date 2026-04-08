@@ -1,0 +1,14 @@
+label                         : constant_velocity
+wall_seconds                  : 0.0419443
+simulated_seconds             : 0.5
+final_KE                      : 0.143138815279185
+final_PE                      : 0
+final_E_total                 : 0.143138815279185
+max_speed                     : 1.006230589874906
+active_contacts               : 0
+contact_frac_%                : 0.7139658842074978
+exact_x                       : 0.9
+exact_y                       : 0.425
+exact_z                       : 0.95
+com_x                         : 0.9000000000001225
+error_x                       : 1.224575996161548e-13

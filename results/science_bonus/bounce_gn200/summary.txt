@@ -1,0 +1,11 @@
+label                         : bounce_gn200
+wall_seconds                  : 0.7228944
+simulated_seconds             : 2.5
+final_KE                      : 3.177965086143389e-28
+final_PE                      : 0.2628809366917789
+final_E_total                 : 0.2628809366917789
+max_speed                     : 3.079535838908544e-14
+active_contacts               : 1
+contact_frac_%                : 0.6852843269011603
+gamma_n                       : 200
+final_KE                      : 3.177965086143389e-28

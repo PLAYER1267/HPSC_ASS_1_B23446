@@ -1,0 +1,11 @@
+label                         : strong_N1000_t8
+wall_seconds                  : 0.0762766
+simulated_seconds             : 0.02
+final_KE                      : 13.14040303246037
+final_PE                      : 239.9634817828804
+final_E_total                 : 253.1038848153408
+max_speed                     : 6.471273439303094
+active_contacts               : 2
+contact_frac_%                : 90.58623106337458
+speedup                       : 1.909594816759006
+efficiency                    : 0.2386993520948758

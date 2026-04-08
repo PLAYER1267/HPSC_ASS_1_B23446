@@ -1,0 +1,3 @@
+mode=constant_velocity
+dt=0.0002
+total_time=0.5

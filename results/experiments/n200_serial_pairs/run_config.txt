@@ -1,0 +1,5 @@
+mode=experiment
+N=200
+grid=0
+omp=0
+threads=1
